@@ -1,0 +1,1 @@
+<strong>Copyright &copy; 2016 - <?php echo date('Y'); ?> <a target='_BLANK' href="https://www.digitaljessies.com"> Digital Jessie</a>.</strong> All rights reserved. 
